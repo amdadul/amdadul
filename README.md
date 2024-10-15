@@ -1,141 +1,136 @@
-# <p align="center">️ **Hello there, I'm Md. Amdadul Hoque** </p>
-<p align="center">️<small>Enthusiast learner and explorer. Full time developer.</small></p>
+# <p align="center">️ **Hello, I'm Md. Amdadul Hoque** 👋 </p>
+<p align="center">️<small>An enthusiastic learner, passionate explorer, and full-time developer</small></p>
 
 <p align="center">
 <a href="https://img.shields.io/github/license/amdadul/amdadul">
-<img alt="Licence" src="https://img.shields.io/github/license/amdadul/amdadul?color=brightgreen&label=LICENCE&logo=MIT"/>
+<img alt="Licence" src="https://img.shields.io/github/license/amdadul/amdadul?color=brightgreen&label=LICENSE&logo=MIT"/>
 </a>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/amdadul/amdadul?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat&cacheSeconds=60">
 </p>
-</br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
-</br>
-
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
-
-- I'm aspiring Full Stack App & Web Developer currently working on **PHP**.
-- I always like working in **Linux** Environment.
-- I'm a knowledge seeker & I love to learn new **Technologies**.
 
 ---
 
-## 📈 **Github Stats:**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
+
+- 💻 Aspiring **Full Stack Developer** with a focus on building scalable and maintainable web applications.
+- ⚙️ Skilled in both **Front-End** and **Back-End** development, currently working primarily with **PHP**.
+- 💡 Passionate about learning and integrating new **technologies** into my projects.
+- 💻 Dedicated to working in a **Linux** environment for development and deployment.
+- 📚 Constantly seeking knowledge, contributing to the open-source community, and exploring emerging trends.
+
+---
+
+## 📈 **GitHub Stats:**
+
+<p align="center">
 <a href="https://github.com/amdadul">
 <img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=amdadul&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 <a href="https://github.com/amdadul/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amdadul&layout=compact&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amdadul&layout=compact&theme=blue-green">
 </a>
+</p>
 
-</br>
+---
 
 ## 🛠️ **Languages & Tools**
 
-Here’s an overview of the programming languages, frameworks, tools, and technologies I specialize in:
-
----
+An overview of the languages, frameworks, tools, and technologies I specialize in:
 
 ### 💻 **Programming Languages:**
 
-- **JavaScript** - A versatile language primarily used for adding interactivity to web pages and building complex front-end applications.
-- **PHP** - A server-side scripting language designed for web development, powering dynamic content and backend logic.
-- **C#** - A modern, object-oriented programming language used in various types of software development, including web applications, primarily with the .NET framework.
+- **JavaScript** - For building dynamic and interactive front-end experiences.
+- **PHP** - Handling server-side logic and API development.
+- **C#** - Object-oriented programming, primarily for web applications.
 
 ---
 
-### 🎨 **Front-End:**
+### 🎨 **Front-End Development:**
 
-- **HTML5** - The foundation for building web page structure and content.
-- **CSS3** - Adds style and visual elements to the HTML content.
-- **JavaScript** - Enables interactivity and dynamic behavior within the web page.
+- **HTML5** - Structuring web content.
+- **CSS3** - Creating responsive and visually appealing layouts.
+- **JavaScript** - Adding interactivity and control to the web pages.
 
 ---
 
 ### 🧩 **Front-End Frameworks & Libraries:**
 
-- **React** - A JavaScript library for building dynamic user interfaces.
-- **Next.js** - A React framework for server-side rendering (SSR) and static site generation (SSG).
-- **Bootstrap** - A popular HTML, CSS, and JavaScript framework providing pre-built components and styles for rapid web development.
-- **Tailwind CSS** - A utility-first CSS framework offering a set of low-level utility classes for building custom user interfaces.
-- **jQuery** - A JavaScript library simplifying DOM manipulation, event handling, and AJAX requests.
+- **React** - A library for building fast and reusable UI components.
+- **Next.js** - React-based framework for SSR (Server-Side Rendering) and SSG (Static Site Generation).
+- **Bootstrap** - Speeding up UI development with pre-styled components.
+- **Tailwind CSS** - A utility-first CSS framework for building custom designs efficiently.
+- **jQuery** - Simplifying DOM manipulation and AJAX requests.
 
 ---
 
-### 🏗️ **Back-End Frameworks & Libraries:**
+### 🏗️ **Back-End Frameworks:**
 
-- **Laravel** - A PHP web framework for rapid development and elegant syntax.
-- **Yii** - A high-performance PHP framework best for developing large-scale web applications.
-
+- **Laravel** - An elegant PHP framework for building web applications.
+- **Yii** - A powerful and high-performance PHP framework for large-scale apps.
+  
 ---
 
 ### 🗄️ **Databases:**
 
-- **SQL Server** - A relational database management system (RDBMS) from Microsoft.
-- **MySQL** - Another popular relational database management system used in web applications.
-- **PostgreSQL** - An open-source object-relational database system with advanced features.
+- **SQL Server** - Handling complex data management for enterprise solutions.
+- **MySQL** - Widely-used RDBMS for web-based applications.
+- **PostgreSQL** - Advanced object-relational database with robust features.
 
 ---
 
 ### 🛡️ **Version Control & Collaboration:**
 
-- **Git** - A distributed version control system for tracking code changes and collaboration.
+- **Git** - Version control system for tracking and managing changes across collaborative projects.
 
 #### Platforms:
-- **GitLab** - A DevOps platform for Git repository hosting, CI/CD, and project management.
-- **GitHub** - A cloud-based platform for hosting Git repositories, with collaboration and code review features.
+- **GitLab** - Offering CI/CD pipelines and Git repository hosting.
+- **GitHub** - Facilitating repository hosting, issue tracking, and code review.
 
 ---
 
-### 🌐 **Servers:**
+### 🌐 **Servers & Hosting:**
 
-- **Windows** - The operating system used for server-side functionality (mention specific versions if necessary).
-- **Linux** - A widely-used open-source server operating system.
+- **Windows** - For server-side operations and application hosting.
+- **Linux** - Preferred environment for server management and development.
 
 #### Web Servers:
-- **Apache** - A widely-used open-source web server for delivering web content.
-- **Nginx** - A high-performance web server and reverse proxy used for serving web applications.
+- **Apache** - A widely-used web server to serve applications reliably.
+- **Nginx** - A lightweight web server for high-performance and reverse proxy.
 
 ---
 
 ### ☁️ **Cloud Providers:**
 
-- **DigitalOcean** - A cloud infrastructure provider offering virtual servers.
-- **AWS (Amazon Web Services)** - A comprehensive cloud computing platform by Amazon.
+- **DigitalOcean** - For hosting and scaling cloud-based infrastructure.
+- **AWS** - Offering a comprehensive suite of cloud services for diverse needs.
 
 ---
 
 ### 🛠️ **Development Tools:**
 
-- **PHPStorm** - An Integrated Development Environment (IDE) for PHP development with advanced features.
-- **PyCharm** - An IDE designed for Python development.
-- **VS Code** - A versatile text editor and IDE supporting various programming languages.
+- **PHPStorm** - A powerful IDE for PHP development.
+- **PyCharm** - A comprehensive IDE for Python development.
+- **VS Code** - A versatile code editor supporting various programming languages and workflows.
 
 ---
 
 ### 📋 **Project Management Tools:**
 
-- **ClickUp** - A project management and productivity tool for task tracking and team collaboration.
-- **Jira** - A project management tool widely used for issue tracking and agile project management.
+- **ClickUp** - For organizing tasks, managing workflows, and improving productivity.
+- **Jira** - Widely used for issue tracking and managing agile projects.
 
 ---
 
+## 🌐 **Connect with me:**
 
-## 🌐 **Reach out to me:** ️
+<p align="center">
+<a href="https://www.linkedin.com/in/eahoque"><img src="https://img.shields.io/badge/LinkedIn-eahoque-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:amdadulhaque05@gmail.com"><img src="https://img.shields.io/badge/Gmail-amdadulhaque05@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/amdadul"><img src="https://img.shields.io/badge/Github-amdadul-black?style=for-the-badge&logo=github"></a>
+<a href="https://twitter.com/ea_hoque"><img src="https://img.shields.io/badge/Twitter-@ea_hoque-1DA1F2?style=for-the-badge&logo=twitter"></a>
+<a href="https://facebook.com/engr.amdadulhaque"><img src="https://img.shields.io/badge/Facebook-engr.amdadulhaque-1877F2?style=for-the-badge&logo=facebook"></a>
+<a href="https://wa.me/01740929512"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp"></a>
+</p>
 
-[<img src="https://img.shields.io/badge/LinkedIn-eahoque-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-amdadulhaque05@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
-
-[comment]: <> ([<img src="https://img.shields.io/badge/Github-amdadul?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github])
-
-[comment]: <> ([<img src="https://img.shields.io/badge/Twitter-@ea_hoque-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter])
-
-<!-- Links of Definitions -->
-
-[linkedin]: https://www.linkedin.com/in/eahoque
-[gmail]: mailto:amdadulhaque05@gmail.com "Lets connect through email"
-[github]: https://github.com/amdadul
-[licence]: https://github.com/amdadul/amdadul/LICENSE
-
-[comment]: <> ([twitter]: https://twitter.com/ea_hoque)
-[facebook]: https://facebook.com/engr.amdadulhaque
