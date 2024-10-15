@@ -30,37 +30,96 @@
 
 </br>
 
-## 🛠️ **Languages & Tools:**
+## 🛠️ **Languages & Tools**
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![PHP](https://img.shields.io/badge/-Php-blue?style=for-the-badge&logo=php)
+This section provides an overview of the technologies used in this project:
 
-![Laravel](https://img.shields.io/badge/laravel-%20%23F05032?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%20%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%20%23000000?style=for-the-badge&logo=nextjs&logoColor=white) 
+---
 
-![SQL Server](https://img.shields.io/badge/sql%20server-%20%230078D6?style=for-the-badge&logo=sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%20%230078D6?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%20%233385C4?style=for-the-badge&logo=postgresql&logoColor=white)
+### 💻 **Programming Languages:**
 
-![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%20%23EE4B28?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%20%23121011?style=for-the-badge&logo=github&logoColor=white)
+- **JavaScript** - A versatile language primarily used for adding interactivity to web pages and building complex front-end applications.
+- **PHP** - A server-side scripting language designed for web development, powering dynamic content and backend logic.
+- **C#** - A modern, object-oriented programming language used in various types of software development, including web applications, primarily with the .NET framework.
 
-![Windows](https://img.shields.io/badge/windows-%20%230078D6?style=for-the-badge&logo=windows-os&logoColor=white)
-![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/apache%20server-%20%23D93600?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%20%230000FF?style=for-the-badge&logo=nginx&logoColor=white)
+---
 
-![Cloud](https://img.shields.io/badge/cloud-%20%23007BFF?style=for-the-badge&logo=cloudsmith&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/digitalocean-%20%230077B5?style=for-the-badge&logo=digitalocean&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%20%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### 🎨 **Front-End:**
 
-![PHPStrom](https://img.shields.io/badge/-Phpstorm-019733?style=for-the-badge&logo=phpstorm)
-![PyCharm](https://img.shields.io/badge/-Pycharm-019733?style=for-the-badge&logo=pycharm)
-![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+- **HTML5** - The foundation for building web page structure and content.
+- **CSS3** - Adds style and visual elements to the HTML content.
+- **JavaScript** - Enables interactivity and dynamic behavior within the web page.
+
+---
+
+### 🧩 **Front-End Frameworks & Libraries:**
+
+- **React** - A JavaScript library for building dynamic user interfaces.
+- **Next.js** - A React framework for server-side rendering (SSR) and static site generation (SSG).
+- **Bootstrap** - A popular HTML, CSS, and JavaScript framework providing pre-built components and styles for rapid web development.
+- **Tailwind CSS** - A utility-first CSS framework offering a set of low-level utility classes for building custom user interfaces.
+- **jQuery** - A JavaScript library simplifying DOM manipulation, event handling, and AJAX requests.
+
+---
+
+### 🏗️ **Back-End Frameworks & Libraries:**
+
+- **Laravel** - A PHP web framework for rapid development and elegant syntax.
+- **Yii** - A high-performance PHP framework best for developing large-scale web applications.
+
+---
+
+### 🗄️ **Databases:**
+
+- **SQL Server** - A relational database management system (RDBMS) from Microsoft.
+- **MySQL** - Another popular relational database management system used in web applications.
+- **PostgreSQL** - An open-source object-relational database system with advanced features.
+
+---
+
+### 🛡️ **Version Control & Collaboration:**
+
+- **Git** - A distributed version control system for tracking code changes and collaboration.
+
+#### Platforms:
+- **GitLab** - A DevOps platform for Git repository hosting, CI/CD, and project management.
+- **GitHub** - A cloud-based platform for hosting Git repositories, with collaboration and code review features.
+
+---
+
+### 🌐 **Servers:**
+
+- **Windows** - The operating system used for server-side functionality (mention specific versions if necessary).
+- **Linux** - A widely-used open-source server operating system.
+
+#### Web Servers:
+- **Apache** - A widely-used open-source web server for delivering web content.
+- **Nginx** - A high-performance web server and reverse proxy used for serving web applications.
+
+---
+
+### ☁️ **Cloud Providers:**
+
+- **DigitalOcean** - A cloud infrastructure provider offering virtual servers.
+- **AWS (Amazon Web Services)** - A comprehensive cloud computing platform by Amazon.
+
+---
+
+### 🛠️ **Development Tools:**
+
+- **PHPStorm** - An Integrated Development Environment (IDE) for PHP development with advanced features.
+- **PyCharm** - An IDE designed for Python development.
+- **VS Code** - A versatile text editor and IDE supporting various programming languages.
+
+---
+
+### 📋 **Project Management Tools:**
+
+- **ClickUp** - A project management and productivity tool for task tracking and team collaboration.
+- **Jira** - A project management tool widely used for issue tracking and agile project management.
+
+---
+
 
 ## 🌐 **Reach out to me:** ️
 
