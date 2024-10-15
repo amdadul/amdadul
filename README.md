@@ -36,11 +36,11 @@
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![PHP](https://img.shields.io/badge/-Php-blue?style=for-the-badge&logo=php)
-[Laravel](https://img.shields.io/badge/laravel- -#F05032?style=for-the-badge&logo=laravel&logoColor=white)
+[Laravel](https://img.shields.io/badge/laravel--#F05032?style=for-the-badge&logo=laravel&logoColor=white)
 
-![React](https://img.shields.io/badge/react- -#61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/react--#61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/next.js- -#000000?style=for-the-badge&logo=nextjs&logoColor=white)   
+![Next.js](https://img.shields.io/badge/next.js--#000000?style=for-the-badge&logo=nextjs&logoColor=white)   
 
 
 ![PHPStrom](https://img.shields.io/badge/-Phpstorm-019733?style=for-the-badge&logo=phpstorm)
@@ -48,11 +48,11 @@
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx- -#0000FF?style=for-the-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx--#0000FF?style=for-the-badge&logo=nginx&logoColor=white)
 
-![DigitalOcean](https://img.shields.io/badge/digitalocean- -#0077B5?style=for-the-badge&logo=digitalocean&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/digitalocean--#0077B5?style=for-the-badge&logo=digitalocean&logoColor=white)
 
-![Cloud](https://img.shields.io/badge/cloud- -#007BFF?style=for-the-badge&logo=cloudsmith&logoColor=white)
+![Cloud](https://img.shields.io/badge/cloud--#007BFF?style=for-the-badge&logo=cloudsmith&logoColor=white)
 
 ## 🌐 **Reach out to me:** ️
 
