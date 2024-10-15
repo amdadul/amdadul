@@ -5,7 +5,7 @@
 <a href="https://img.shields.io/github/license/amdadul/amdadul">
 <img alt="Licence" src="https://img.shields.io/github/license/amdadul/amdadul?color=brightgreen&label=LICENCE&logo=MIT"/>
 </a>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/amdadul/amdadul?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/amdadul/amdadul?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat&cacheSeconds=60">
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
