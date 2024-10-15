@@ -36,23 +36,28 @@
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
 ![PHP](https://img.shields.io/badge/-Php-blue?style=for-the-badge&logo=php)
+
 ![Laravel](https://img.shields.io/badge/laravel-%20%23F05032?style=for-the-badge&logo=laravel&logoColor=white)
-
 ![React](https://img.shields.io/badge/react-%20%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
-
 ![Next.js](https://img.shields.io/badge/next.js-%20%23000000?style=for-the-badge&logo=nextjs&logoColor=white) 
 
 
 ![PHPStrom](https://img.shields.io/badge/-Phpstorm-019733?style=for-the-badge&logo=phpstorm)
 ![PyCharm](https://img.shields.io/badge/-Pycharm-019733?style=for-the-badge&logo=pycharm)
 ![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
 ![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%20%23EE4B28?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%20%23121011?style=for-the-badge&logo=github&logoColor=white)
+
+![Windows Server](https://img.shields.io/badge/windows%20server-%20%230078D6?style=for-the-badge&logo=windows-server&logoColor=white)
+![Apache Server](https://img.shields.io/badge/apache%20server-%20%23D93600?style=for-the-badge&logo=apache&logoColor=white)
 ![Linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/nginx-%20%230000FF?style=for-the-badge&logo=nginx&logoColor=white)
 
-![DigitalOcean](https://img.shields.io/badge/digitalocean-%20%230077B5?style=for-the-badge&logo=digitalocean&logoColor=white)
-
 ![Cloud](https://img.shields.io/badge/cloud-%20%23007BFF?style=for-the-badge&logo=cloudsmith&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/digitalocean-%20%230077B5?style=for-the-badge&logo=digitalocean&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%20%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 🌐 **Reach out to me:** ️
 
