@@ -32,7 +32,7 @@
 
 ## 🛠️ **Languages & Tools**
 
-This section provides an overview of the technologies used in this project:
+Here’s an overview of the programming languages, frameworks, tools, and technologies I specialize in:
 
 ---
 
